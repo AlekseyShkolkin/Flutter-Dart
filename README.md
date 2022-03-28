@@ -1,6 +1,6 @@
 # vartwo
 
-A new Flutter project.
+A new Flutter project. Программа тренировок
 
 ## Getting Started
 
